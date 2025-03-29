@@ -1,0 +1,22 @@
+body{
+    background-image: url(escudo75o.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+
+
+/* Das ist mir scheißegal! = aleman */
+
+*{
+    color: #fff; 
+    text-align: center
+    
+}
+
+ul { display: inline-block; text-align: left; }
+
+.left{
+    float: left;
+    width: 50px;
+}
